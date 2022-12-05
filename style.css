@@ -15,7 +15,8 @@
   margin-top: 20%;
   margin-left: 2%;
   width: 400px;
-  max-width: calc(100vw - 10px);
+  max-width: calc(100vw - 25px);
+  size: 40%;
   
 }
 body {
